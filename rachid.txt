@@ -1,2 +1,9 @@
 benkitou
+<<<<<<< HEAD
 hwara 
+=======
+
+test
+
+Hello Every Body Youssef wld Khouribga
+>>>>>>> d8989ef6ee2ec2b96a9889cab9e06d0c770ac1bb
